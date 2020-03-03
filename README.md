@@ -30,7 +30,7 @@ Although the accessibility score is low, I did note whether the colors I chose h
 
 Revised
 
-<img src="Screen Shot 2020-03-03 at 11.02.05 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.02.19 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.02.31 AM.png" width="250">
+<img src="Screen Shot 2020-03-03 at 11.02.05 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.06.04 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.06.29 AM.png" width="250">
 
 ---
 ### Full Interaction Sequence

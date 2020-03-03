@@ -23,16 +23,16 @@ Although the accessibility score is low, I did note whether the colors I chose h
 
 <img src="Screen Shot 2020-03-03 at 10.21.01 AM.png" width="400">
 
-After revising the prototype to have more color aside from black against a very light grey, the audit remains the same.
+After revising the prototype to have more color (what was essentially a Dark Mode version of the prototype), the audit remains the same.
 
 ---
 ### Representative Screens
 
-<img src="Screen Shot 2020-03-03 at 9.28.33 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.29.29 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.30.10 AM.png" width="250"> 
+<img src="1EB6E07D-E6BF-4672-96E4-FB76C9CB3C8B_1_201_a.jpeg" width="250"> <img src="DE880966-9570-45F1-892D-A3F5CF0F5E4A_1_201_a.jpeg" width="250"> <img src="42D04E2C-FB07-4958-92E8-2E303946A429_1_201_a.jpeg" width="250"> 
 
-Revised
+Dark Mode
 
-<img src="Screen Shot 2020-03-03 at 11.02.05 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.06.04 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.06.29 AM.png" width="250">
+<img src="AC43C734-F8FA-4082-9C7F-CBC46A5C9AED_1_201_a.jpeg" width="250"> <img src="SB310381B-5E2B-47DD-921E-79FFE554A1AD_1_201_a.jpeg" width="250"> <img src="31CEB345-EB26-4EA0-A4E9-474F719A33E1_1_201_a.jpeg" width="250">
 
 ---
 ### Full Interaction Sequence
@@ -54,6 +54,6 @@ Revised With Arrows
 ---
 ### Prototype
 
-Please click [here](https://kj121497.github.io/assignment8/) to view the prototype.
+Click [here] to view the prototype.
 
-Please click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down) to interact with the prototype.
+Click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down) to interact with the prototype. Click [here] to view the prototype in dark mode. 

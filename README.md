@@ -37,17 +37,17 @@ Dark Mode
 ---
 ### Full Interaction Sequence
 
-<img src="High-Fidelity Prototype (DH 150) (Copy).png">
-
-With Arrows
-
-<img src="Screen Shot 2020-03-03 at 9.58.37 AM.png">
-
-Revised
-
 <img src="High-Fidelity Prototype (DH 150).png">
 
-Revised With Arrows
+Arrow Sequence
+
+<img src="Screen Shot 2020-03-03 at 2.05.45 PM.png">
+
+Dark Mode
+
+<img src="High-Fidelity Prototype (DH 150) (Copy).png">
+
+Arrow Sequence
 
 <img src="Screen Shot 2020-03-03 at 10.57.08 AM.png">
 

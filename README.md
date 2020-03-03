@@ -28,6 +28,10 @@ Although the accessibility score is low, I did note whether the colors I chose h
 
 <img src="Screen Shot 2020-03-03 at 9.28.33 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.29.29 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.30.10 AM.png" width="250"> 
 
+Revised
+
+<img src="Screen Shot 2020-03-03 at 11.02.05 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.02.19 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 11.02.31 AM.png" width="250">
+
 ---
 ### Full Interaction Sequence
 
@@ -37,9 +41,17 @@ With Arrows
 
 <img src="Screen Shot 2020-03-03 at 9.58.37 AM.png">
 
+Revised
+
+<img src="High-Fidelity Prototype (DH 150).png">
+
+Revised With Arrows
+
+<img src="Screen Shot 2020-03-03 at 10.57.08 AM.png">
+
 ---
 ### Prototype
 
 Please click [here](https://kj121497.github.io/assignment8/) to view the prototype.
 
-Please click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?scaling=scale-down&node-id=6%3A4) to interact with the prototype.
+Please click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down) to interact with the prototype.

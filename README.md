@@ -10,3 +10,14 @@ UPLOADIT is a photo sharing, social media site that allows for more user control
 ### Tasks Supported
 
 Currently, the UPLOADIT high-fidelity prototype supports four tasks. The first: a Profile page with images categorized by years. The second: a search bar on Profile page to search for images by month and/or year. The third: an immediately accessible Likes page, with number of Likes and Likes pages displayed. The fourth: a video player with a play, pause, forward, rewind, and scrubber buttons as well as a time marker. 
+
+---
+### Representative Screens
+
+<img src="Screen Shot 2020-03-03 at 9.28.33 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.29.29 AM.png" width="250"> <img src="Screen Shot 2020-03-03 at 9.30.10 AM.png" width="250"> 
+
+---
+### Full Interaction Sequence
+
+<img src="High-Fidelity Prototype (DH 150) (Copy).png">
+

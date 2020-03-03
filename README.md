@@ -21,3 +21,10 @@ Currently, the UPLOADIT high-fidelity prototype supports four tasks. The first: 
 
 <img src="High-Fidelity Prototype (DH 150) (Copy).png">
 
+---
+### Prototype
+
+Please click [here](https://kj121497.github.io/assignment8/) to view the prototype.
+
+Please click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?scaling=scale-down&node-id=6%3A4) to interact with the prototype.
+

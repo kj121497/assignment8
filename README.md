@@ -32,7 +32,7 @@ After revising the prototype to have more color (what was essentially a Dark Mod
 
 Dark Mode
 
-<img src="AC43C734-F8FA-4082-9C7F-CBC46A5C9AED_1_201_a.jpeg" width="250"> <img src="SB310381B-5E2B-47DD-921E-79FFE554A1AD_1_201_a.jpeg" width="250"> <img src="31CEB345-EB26-4EA0-A4E9-474F719A33E1_1_201_a.jpeg" width="250">
+<img src="AC43C734-F8FA-4082-9C7F-CBC46A5C9AED_1_201_a.jpeg" width="250"> <img src="B310381B-5E2B-47DD-921E-79FFE554A1AD_1_201_a.jpeg" width="250"> <img src="31CEB345-EB26-4EA0-A4E9-474F719A33E1_1_201_a.jpeg" width="250">
 
 ---
 ### Full Interaction Sequence

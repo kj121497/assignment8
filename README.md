@@ -21,6 +21,10 @@ Currently, the UPLOADIT high-fidelity prototype supports four tasks. The first: 
 
 <img src="High-Fidelity Prototype (DH 150) (Copy).png">
 
+With Arrows
+
+<img src="Screen Shot 2020-03-03 at 9.58.37 AM.png">
+
 ---
 ### Prototype
 

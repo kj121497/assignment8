@@ -23,6 +23,8 @@ Although the accessibility score is low, I did note whether the colors I chose h
 
 <img src="Screen Shot 2020-03-03 at 10.21.01 AM.png" width="400">
 
+After revising the prototype to have more color aside from black against a very light grey, the audit remains the same.
+
 ---
 ### Representative Screens
 

@@ -54,6 +54,6 @@ Arrow Sequence
 ---
 ### Prototype
 
-Click [here] to view the prototype.
+Click [here] to view the prototype. Click here to view the prototype in dark mode.
 
-Click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down) to interact with the prototype. Click [here] to view the prototype in dark mode. 
+Click [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down) to interact with the prototype. Click [here] to interact with the prototype in dark mode. 
